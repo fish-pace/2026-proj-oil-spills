@@ -24,9 +24,10 @@ need to share large datasets.
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Alfredo Terrazas    | Project Facilitator |
+| Santiago Reynoso    | Participant         |
+| Danalie             | Participant         |
+| Jorge Silva         | Participant         |
 
 ## Planning
 
