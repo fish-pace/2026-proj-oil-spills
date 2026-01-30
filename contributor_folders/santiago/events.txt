@@ -1,0 +1,4 @@
+event_id,lat_start,lat_end,lon_start,lon_end,date_ini,date_end,description
+Egypt_Med_Spill,30.9,31.2,28.8,29.2,2024-07-10,2024-07-25,Unknown source slick in oligotrophic waters
+Chennai_Ennore_Refinery,13.1,13.4,80.3,80.6,2024-01-01,2024-01-20,Post-cyclone river and coastal oil discharge
+Malacca_Strait_Baseline,1.9,2.5,102.0,101.4,2025-06-12,2025-06-30,Your original study area coordinates
