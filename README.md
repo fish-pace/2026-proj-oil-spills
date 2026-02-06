@@ -19,9 +19,9 @@ This project aims to leverage PACE hyperspectral imagery to detect, track, and c
 * Initial idea: "short description"
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
+* Slack channel: 2025-fish-pace-hackweek
 * Project google drive: Add link
-* Final presentation: Add link
+* Final presentation: (https://docs.google.com/presentation/d/1kM6JACSEnZWaBKZ0ag3bXhAMOMR5ZGVM/edit?slide=id.p3#slide=id.p3)
 
 ## Background
 Major hydrocarbon production regions, such as the southern Gulf of Mexico, face a continuous risk of oil spills from offshore infrastructure, operational activities, and natural seepage. These spills pose serious threats to marine and coastal ecosystems.
